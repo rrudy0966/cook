@@ -1,6 +1,6 @@
 <?php
-$data=array('by'=>'winstabot.net',
-           'url'=>'http://www.winstabot.net/users/getData',
+$data=array('by'=>'insdotagram.com',
+           'url'=>'http://www.indotagram.com/users/getData',
             );
 
 function Submit($url,$fields)
