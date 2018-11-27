@@ -1,7 +1,7 @@
-# indotagram
+# dari Indotagram
 Get Cookie Instgram Via Termux Android
 
-$ git clone https://github.com/rrudy0966/winstabot
+$ git clone https://github.com/rrudy0966/cook
 
-$ php winstabot/login.php
+$ php cook/login.php
 
